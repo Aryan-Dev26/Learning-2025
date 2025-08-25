@@ -1,4 +1,5 @@
-n=1
-while n<=10:
-    print (3*n)
-    n+=1
+n= int(input("Enter a Number :"))
+i = 1
+while i<=10:
+    print (n*i)
+    i+=1
